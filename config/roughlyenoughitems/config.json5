@@ -1,12 +1,6 @@
 {
 	"basics": {
-		"favorites": [
-			"{data:{Count:1b,id:\"things:riot_gauntlet\",tag:{},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"things:mining_gloves\",tag:{},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"things:arm_extender\",tag:{},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:diamond\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:netherite_chestplate\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
-		],
+		"favorites": [],
 		"hiddenFavorites": [],
 		"displayHistory": [],
 		// Declares whether cheating mode is on.
@@ -133,7 +127,8 @@
 			"clickableRecipeArrows": true,
 			"registerRecipesInAnotherThread": true,
 			"newFastEntryRendering": true,
-			"cachingFastEntryRendering": false
+			"cachingFastEntryRendering": false,
+			"cachingDisplayLookup": true
 		}
 	},
 	"appearance": {
@@ -166,7 +161,7 @@
 		// Declares whether REI should remove the recipe book.
 		"disableRecipeBook": false,
 		// Declares whether mob effects should be on the left side instead of the right side.
-		"leftSideMobEffects": true,
+		"leftSideMobEffects": false,
 		// Declares whether subsets is enabled.
 		"isSubsetsEnabled": false,
 		"allowInventoryHighlighting": true,
