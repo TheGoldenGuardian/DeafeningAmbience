@@ -1,0 +1,219 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.OptionsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  custom_menu_title = OPTIONS
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=505154%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345280%
+  orientation = mid-centered
+  x = -72
+  action = movebutton
+  y = -5
+}
+
+customization {
+  identifier = %id=345280%
+  width = 144
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=345280%
+  action = setbuttonlabel
+  value = Resources
+}
+
+customization {
+  identifier = %id=345154%
+  orientation = mid-centered
+  x = -72
+  action = movebutton
+  y = -80
+}
+
+customization {
+  identifier = %id=345154%
+  width = 144
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=505280%
+  orientation = mid-centered
+  x = -72
+  action = movebutton
+  y = 45
+}
+
+customization {
+  identifier = %id=505280%
+  width = 145
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=505280%
+  action = setbuttonlabel
+  value = Accessibility
+}
+
+customization {
+  identifier = %id=400334%
+  orientation = bottom-centered
+  x = -35
+  action = movebutton
+  y = -58
+}
+
+customization {
+  identifier = %id=400334%
+  width = 70
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400334%
+  action = setbuttonlabel
+  value = &cReturn
+}
+
+customization {
+  identifier = %id=345256%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505256%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = 20
+}
+
+customization {
+  identifier = %id=505256%
+  width = 70
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=505256%
+  action = setbuttonlabel
+  value = Chat
+}
+
+customization {
+  identifier = %id=345232%
+  orientation = mid-centered
+  x = -72
+  action = movebutton
+  y = -55
+}
+
+customization {
+  identifier = %id=345232%
+  width = 70
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=345232%
+  action = setbuttonlabel
+  value = Video
+}
+
+customization {
+  identifier = %id=505232%
+  orientation = mid-centered
+  x = -72
+  action = movebutton
+  y = -30
+}
+
+customization {
+  identifier = %id=505232%
+  width = 144
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=505232%
+  action = setbuttonlabel
+  value = Controls
+}
+
+customization {
+  identifier = %id=635154%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345208%
+  orientation = mid-centered
+  x = -72
+  action = movebutton
+  y = 20
+}
+
+customization {
+  identifier = %id=345208%
+  width = 70
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=345208%
+  action = setbuttonlabel
+  value = Skin
+}
+
+customization {
+  identifier = %id=345304%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505208%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = -55
+}
+
+customization {
+  identifier = %id=505208%
+  width = 70
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=505208%
+  action = setbuttonlabel
+  value = Audio
+}
+

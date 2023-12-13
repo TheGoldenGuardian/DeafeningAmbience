@@ -1,0 +1,150 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.SkinCustomizationScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  custom_menu_title = SKIN
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400262%
+  orientation = bottom-centered
+  x = -100
+  action = movebutton
+  y = -28
+}
+
+customization {
+  identifier = %id=400262%
+  action = setbuttonlabel
+  value = &cReturn
+}
+
+customization {
+  identifier = %id=505190%
+  orientation = mid-centered
+  x = 35
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=505190%
+  width = 90
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=505238%
+  orientation = mid-centered
+  x = -45
+  action = movebutton
+  y = -75
+}
+
+customization {
+  identifier = %id=505238%
+  width = 90
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=345190%
+  orientation = mid-centered
+  x = -124
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=345190%
+  width = 90
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=345238%
+  orientation = mid-centered
+  x = -32
+  action = movebutton
+  y = -47
+}
+
+customization {
+  identifier = %id=345238%
+  width = 65
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=505166%
+  orientation = mid-centered
+  x = -32
+  action = movebutton
+  y = 3
+}
+
+customization {
+  identifier = %id=505166%
+  width = 65
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=505214%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = 28
+}
+
+customization {
+  identifier = %id=505214%
+  width = 105
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=345166%
+  orientation = mid-centered
+  x = -32
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=345166%
+  width = 65
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=345214%
+  orientation = mid-centered
+  x = -110
+  action = movebutton
+  y = 28
+}
+
+customization {
+  identifier = %id=345214%
+  width = 105
+  action = resizebutton
+  height = 20
+}
+

@@ -1,0 +1,119 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.controls.ControlsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  custom_menu_title = CONTROLS
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400226%
+  orientation = mid-centered
+  x = -35
+  action = movebutton
+  y = 20
+}
+
+customization {
+  identifier = %id=400226%
+  width = 70
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400226%
+  action = setbuttonlabel
+  value = &cReturn
+}
+
+customization {
+  identifier = %id=505154%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = -30
+}
+
+customization {
+  identifier = %id=505154%
+  width = 80
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=505154%
+  action = setbuttonlabel
+  value = Keybinds
+}
+
+customization {
+  identifier = %id=345154%
+  orientation = mid-centered
+  x = -82
+  action = movebutton
+  y = -30
+}
+
+customization {
+  identifier = %id=345154%
+  width = 80
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=345154%
+  action = setbuttonlabel
+  value = Mouse
+}
+
+customization {
+  identifier = %id=505202%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345202%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505178%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = -5
+}
+
+customization {
+  identifier = %id=505178%
+  width = 80
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=345178%
+  orientation = mid-centered
+  x = -82
+  action = movebutton
+  y = -5
+}
+
+customization {
+  identifier = %id=345178%
+  width = 80
+  action = resizebutton
+  height = 20
+}
+

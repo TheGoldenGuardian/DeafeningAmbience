@@ -1,0 +1,21 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraftforge.client.gui.ModListScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=482974%
+  action = setbuttonlabel
+  value = &cReturn
+}
+
