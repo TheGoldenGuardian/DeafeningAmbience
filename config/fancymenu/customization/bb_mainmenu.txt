@@ -48,6 +48,21 @@ customization {
 }
 
 customization {
+  identifier = %id=376322%
+  orientation = mid-centered
+  x = 71
+  action = movebutton
+  y = 30
+}
+
+customization {
+  identifier = %id=376322%
+  width = 19
+  action = resizebutton
+  height = 19
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = mid-centered
   x = -90
@@ -146,7 +161,7 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
-  width = 85
+  width = 62
   action = resizebutton
   height = 19
 }
