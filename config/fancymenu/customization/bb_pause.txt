@@ -84,17 +84,6 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
-  action = setbuttonlabel
-  value = LAN
-}
-
-customization {
   identifier = %id=606348%
   orientation = mid-centered
   x = 82
@@ -166,6 +155,14 @@ customization {
 }
 
 customization {
+  identifier = %id=606276%
+  orientation = mid-centered
+  x = 58
+  action = movebutton
+  y = 3
+}
+
+customization {
   orientation = bottom-left
   enable_scrolling = true
   shadow = true
@@ -185,10 +182,7 @@ customization {
 }
 
 customization {
-  identifier = %id=606276%
-  orientation = mid-centered
-  x = 58
-  action = movebutton
-  y = 3
+  identifier = %id=504324%
+  action = hidebutton
 }
 
