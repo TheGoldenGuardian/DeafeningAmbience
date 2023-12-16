@@ -292,15 +292,15 @@ customization {
 }
 
 customization {
-  orientation = mid-centered
+  orientation = top-left
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = joinserver;PsycoFrensNetworkBBQ.exaroton.me%btnaction_splitter_fm%
-  x = 5
+  x = 245
   width = 31
   action = addbutton
   actionid = 3d3f0de3-89a9-4ab2-afb5-05bd712949101702693169646
-  y = 0
+  y = 127
   description = Direct-join official server.
   label = Join
   height = 19
