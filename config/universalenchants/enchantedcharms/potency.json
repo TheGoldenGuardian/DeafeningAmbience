@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:charm_amethyst"
+  ],
+  "incompatible": [
+    "enchantedcharms:gilded",
+    "enchantedcharms:anglers_boon",
+    "enchantedcharms:grappler",
+    "enchantedcharms:ordnance",
+    "enchantedcharms:bulwark",
+    "enchantedcharms:masterwork",
+    "enchantedcharms:golemancer",
+    "enchantedcharms:repository",
+    "enchantedcharms:antidote",
+    "enchantedcharms:cluster_brew",
+    "enchantedcharms:prospecting",
+    "enchantedcharms:hunters_mark",
+    "enchantedcharms:defusing",
+    "enchantedcharms:focus",
+    "enchantedcharms:survivalist"
+  ]
+}

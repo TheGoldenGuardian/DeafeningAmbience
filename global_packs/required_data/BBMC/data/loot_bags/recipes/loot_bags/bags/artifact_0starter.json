@@ -1,0 +1,142 @@
+{
+    "type": "lootbags:loot",
+    "name": "Artifacts (Starter)",
+    "color": "#f8a500",
+    "rarity": "LEGENDARY",
+    "output": {
+      "entries": [
+		{
+			"weight": 10,
+			"stack": "artifacts:plastic_drinking_hat"
+		},
+		{
+			"weight": 8,
+			"stack": "artifacts:thorn_pendant"
+		},
+		{
+			"weight": 8,
+			"stack": "artifacts:universal_attractor"
+		},
+		{
+			"weight": 7,
+			"stack": "artifacts:panic_necklace"
+		},
+		{
+			"weight": 7,
+			"stack": "artifacts:charm_of_sinking"
+		},
+		{
+			"weight": 7,
+			"stack": "artifacts:flippers"
+		},
+		{
+			"weight": 6,
+			"stack": "artifacts:shock_pendant"
+		},
+		{
+			"weight": 6,
+			"stack": "artifacts:digging_claws"
+		},
+		{
+			"weight": 6,
+			"stack": "artifacts:running_shoes"
+		},
+		{
+			"weight": 5,
+			"stack": "artifacts:snorkel"
+		},
+		{
+			"weight": 5,
+			"stack": "artifacts:night_vision_goggles"
+		},
+		{
+			"weight": 5,
+			"stack": "artifacts:flame_pendant"
+		},
+		{
+			"weight": 5,
+			"stack": "artifacts:pocket_piston"
+		},
+		{
+			"weight": 5,
+			"stack": "artifacts:steadfast_spikes"
+		},
+		{
+			"weight": 4,
+			"stack": "artifacts:villager_hat"
+		},
+		{
+			"weight": 4,
+			"stack": "artifacts:superstitious_hat"
+		},
+		{
+			"weight": 4,
+			"stack": "artifacts:lucky_scarf"
+		},
+		{
+			"weight": 4,
+			"stack": "artifacts:obsidian_skull"
+		},
+		{
+			"weight": 4,
+			"stack": "artifacts:antidote_vessel"
+		},
+		{
+			"weight": 4,
+			"stack": "artifacts:fire_gauntlet"
+		},
+		{
+			"weight": 4,
+			"stack": "artifacts:aqua_dashers"
+		},
+		{
+			"weight": 4,
+			"stack": "artifacts:kitty_slippers"
+		},
+		{
+			"weight": 3,
+			"stack": "artifacts:umbrella"
+		},
+		{
+			"weight": 3,
+			"stack": "artifacts:crystal_heart"
+		},
+		{
+			"weight": 3,
+			"stack": "artifacts:helium_flamingo"
+		},
+		{
+			"weight": 3,
+			"stack": "artifacts:bunny_hoppers"
+		},
+		{
+			"weight": 2,
+			"stack": "artifacts:scarf_of_invisibility"
+		},
+		{
+			"weight": 2,
+			"stack": "artifacts:cloud_in_a_bottle"
+		},
+		{
+			"weight": 2,
+			"stack": "artifacts:feral_claws"
+		},
+		{
+			"weight": 2,
+			"stack": "artifacts:power_glove"
+		},
+		{
+			"weight": 2,
+			"stack": "artifacts:golden_hook"
+		},
+		{
+			"weight": 1,
+			"stack": "artifacts:cross_necklace"
+		},
+		{
+			"weight": 1,
+			"stack": "artifacts:vampiric_glove"
+		}
+	  ]
+    }
+  }

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RBR",
+        "BEB",
+        "GLG"
+    ],
+    "key": {
+        "E": {
+            "tag": "forge:storage_blocks/emerald"
+        },
+        "L": {
+            "item": "minecraft:golden_helmet"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "R": {
+            "item": "minecraft:rabbit_foot"
+        },
+        "G": {
+            "tag": "forge:dyes/green"
+        }
+    },
+    "result": {
+        "item": "artifacts:superstitious_hat",
+        "count": 1
+    }
+}

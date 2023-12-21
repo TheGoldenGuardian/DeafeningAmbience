@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "SBS",
+        "DLD"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:blue_concrete"
+        },
+        "L": {
+            "tag": "forge:storage_blocks/lead"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "S": {
+            "tag": "supplementaries:chains"
+        }
+    },
+    "result": {
+        "item": "artifacts:charm_of_sinking",
+        "count": 1
+    }
+}

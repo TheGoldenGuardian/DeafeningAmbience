@@ -1,0 +1,30 @@
+{
+    "type": "lootbags:loot",
+    "name": "Rings (Rare)",
+    "color": "#6664fb",
+    "rarity": "RARE",
+    "output": {
+      "entries": [
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_invisibility"
+		},
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_slow_falling"
+		},
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_night_vision"
+		},
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_dolphin"
+		},
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_knockback_resistance"
+		}
+	  ]
+    }
+  }

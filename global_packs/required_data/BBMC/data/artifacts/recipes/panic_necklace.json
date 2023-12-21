@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "SBS",
+        "ECE"
+    ],
+    "key": {
+        "E": {
+            "tag": "forge:gems/emerald"
+        },
+        "C": {
+            "item": "minecraft:cake"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "S": {
+            "tag": "forge:string"
+        }
+    },
+    "result": {
+        "item": "artifacts:panic_necklace",
+        "count": 1
+    }
+}

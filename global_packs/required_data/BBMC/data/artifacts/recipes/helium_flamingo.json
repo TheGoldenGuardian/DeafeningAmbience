@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CSC",
+        "FBF",
+        "PPP"
+    ],
+    "key": {
+        "C": {
+            "item": "immersiveengineering:balloon"
+        },
+        "S": {
+            "item": "betterarcheology:chicken_fossil_head"
+        },
+        "F": {
+            "tag": "forge:feathers"
+        },
+        "P": {
+            "tag": "forge:dyes/pink"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        }
+    },
+    "result": {
+        "item": "artifacts:helium_flamingo",
+        "count": 1
+    }
+}

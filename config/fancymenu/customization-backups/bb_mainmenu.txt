@@ -277,7 +277,7 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = &b&lServer Status&r:%n%&6Players&r: {"placeholder":"serverplayercount","values":{"ip":"PsycoFrensNetworkBBQ.exaroton.me"}}%n%&6Ping&r: {"placeholder":"serverping","values":{"ip":"PsycoFrensNetworkBBQ.exaroton.me"}}ms%n%If Player cap is 0, the server is off.
+  source = &b&lBlitz Boyz MC&r:%n%&6Status&r: {"placeholder":"serverstatus","values":{"ip":"69.72.117.105:25565"}}%n%&6Players&r: {"placeholder":"serverplayercount","values":{"ip":"69.72.117.105:25565"}}%n%&6Ping&r: {"placeholder":"serverping","values":{"ip":"69.72.117.105:25565"}}ms
   text_border = 0
   case_mode = normal
   source_mode = direct
@@ -292,15 +292,15 @@ customization {
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = joinserver;PsycoFrensNetworkBBQ.exaroton.me%btnaction_splitter_fm%
-  x = 245
+  buttonaction = joinserver;69.72.117.105:25565%btnaction_splitter_fm%
+  x = 5
   width = 31
   action = addbutton
   actionid = 3d3f0de3-89a9-4ab2-afb5-05bd712949101702693169646
-  y = 127
+  y = 0
   description = Direct-join official server.
   label = Join
   height = 19

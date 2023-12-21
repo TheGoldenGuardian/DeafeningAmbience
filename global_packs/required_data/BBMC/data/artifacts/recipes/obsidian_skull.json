@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OBO",
+        "PSP",
+        "OBO"
+    ],
+    "key": {
+        "O": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "P": {
+            "item": "create_things_and_misc:powdered_obsidian_block"
+        },
+        "S": {
+            "item": "minecraft:wither_skeleton_skull"
+        }
+    },
+    "result": {
+        "item": "artifacts:obsidian_skull",
+        "count": 1
+    }
+}

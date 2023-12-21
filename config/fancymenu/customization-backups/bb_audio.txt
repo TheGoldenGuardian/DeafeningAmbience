@@ -1,0 +1,22 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.SoundOptionsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  custom_menu_title = AUDIO
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400973%
+  action = setbuttonlabel
+  value = &cReturn
+}
+

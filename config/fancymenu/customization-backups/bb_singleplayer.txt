@@ -1,0 +1,114 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.worldselection.SelectWorldScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  custom_menu_title = SINGLEPLAYER
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=346948%
+  orientation = bottom-centered
+  x = -84
+  action = movebutton
+  y = -52
+}
+
+customization {
+  identifier = %id=346948%
+  width = 80
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=346948%
+  action = setbuttonlabel
+  value = Continue
+}
+
+customization {
+  identifier = %id=504948%
+  orientation = bottom-centered
+  x = 4
+  action = movebutton
+  y = -52
+}
+
+customization {
+  identifier = %id=504948%
+  width = 80
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=504948%
+  action = setbuttonlabel
+  value = New Game
+}
+
+customization {
+  identifier = %id=582972%
+  orientation = bottom-centered
+  x = 4
+  action = movebutton
+  y = -28
+}
+
+customization {
+  identifier = %id=582972%
+  width = 80
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=582972%
+  action = setbuttonlabel
+  value = &cReturn
+}
+
+customization {
+  identifier = %id=346972%
+  orientation = bottom-centered
+  x = -84
+  action = movebutton
+  y = -28
+}
+
+customization {
+  identifier = %id=346972%
+  width = 38
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=424972%
+  orientation = bottom-centered
+  x = -42
+  action = movebutton
+  y = -28
+}
+
+customization {
+  identifier = %id=424972%
+  width = 38
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=504972%
+  action = hidebutton
+}
+

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PPP",
+        "NBN",
+        "RRR"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:stone_pickaxe"
+        },
+        "N": {
+            "item": "minecraft:netherite_scrap"
+        },
+        "R": {
+            "tag": "forge:ropes"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        }
+    },
+    "result": {
+        "item": "artifacts:digging_claws",
+        "count": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SWS",
+        "BHB",
+        "NBN"
+    ],
+    "key": {
+        "H": {
+            "item": "create:brass_hand"
+        },
+        "S": {
+            "tag": "forge:plates/brass"
+        },
+        "W": {
+            "tag": "forge:tools/wrench"
+        },
+        "N": {
+            "tag": "forge:ingots/netherite"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        }
+    },
+    "result": {
+        "item": "artifacts:power_glove",
+        "count": 1
+    }
+}

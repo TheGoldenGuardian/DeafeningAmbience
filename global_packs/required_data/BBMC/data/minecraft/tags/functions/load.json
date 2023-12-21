@@ -1,0 +1,6 @@
+{
+	"values": [ 
+		"gamerules:load",
+		"respawn:load"
+	]
+}

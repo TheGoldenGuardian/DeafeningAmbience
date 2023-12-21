@@ -1,0 +1,22 @@
+type = menu
+
+customization-meta {
+  identifier = com.blamejared.controlling.client.NewKeyBindsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  custom_menu_title = KEYBINDS
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=505971%
+  action = setbuttonlabel
+  value = &cReturn
+}
+

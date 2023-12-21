@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WBW",
+        "BRB",
+        "WHW"
+    ],
+    "key": {
+        "H": {
+            "item": "artifacts:plastic_drinking_hat"
+        },
+        "W": {
+            "tag": "forge:dyes/white"
+        },
+        "B": {
+            "tag": "forge:dyes/blue"
+        },
+        "R": {
+            "tag": "forge:dyes/red"
+        }
+    },
+    "result": {
+        "item": "artifacts:novelty_drinking_hat",
+        "count": 1
+    }
+}

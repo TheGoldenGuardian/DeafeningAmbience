@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WBW",
+        "TPS",
+        "WCW"
+    ],
+    "key": {
+        "W": {
+            "item": "waystones:warp_dust"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "S": {
+            "item": "minecraft:spider_eye"
+        },
+        "T": {
+            "item": "minecraft:poisonous_potato"
+        },
+        "P": {
+            "item": "minecraft:decorated_pot"
+        },
+        "C": {
+            "tag": "forge:charcoal"
+        }
+    },
+    "result": {
+        "item": "artifacts:antidote_vessel",
+        "count": 1
+    }
+}

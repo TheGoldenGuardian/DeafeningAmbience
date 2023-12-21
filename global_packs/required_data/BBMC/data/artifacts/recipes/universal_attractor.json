@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "MMM",
+        "MBM",
+        "G G"
+    ],
+    "key": {
+        "M": {
+            "item": "alexscaves:scarlet_neodymium_ingot"
+        },
+        "G": {
+            "tag": "forge:ingots/gold"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        }
+    },
+    "result": {
+        "item": "artifacts:universal_attractor",
+        "count": 1
+    }
+}

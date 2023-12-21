@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CBC",
+        "BHB",
+        "CBC"
+    ],
+    "key": {
+        "C": {
+            "item": "lifesteal:heart_core"
+        },
+        "H": {
+            "item": "lifesteal:heart_crystal"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        }
+    },
+    "result": {
+        "item": "artifacts:crystal_heart",
+        "count": 1
+    }
+}

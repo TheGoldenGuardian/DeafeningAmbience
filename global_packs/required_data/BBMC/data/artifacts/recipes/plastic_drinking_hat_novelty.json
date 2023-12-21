@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WBW",
+        "DRD",
+        "EHE"
+    ],
+    "key": {
+        "H": {
+            "item": "artifacts:plastic_drinking_hat"
+        },
+        "W": {
+            "tag": "forge:ingots/silver"
+        },
+        "B": {
+            "item": "alexscaves:block_of_azure_neodymium"
+        },
+        "R": {
+            "item": "alexscaves:block_of_scarlet_neodymium"
+        },
+        "D": {
+            "tag": "forge:gems/diamond"
+        },
+        "E": {
+            "item": "minecraft:experience_bottle"
+        }
+    },
+    "result": {
+        "item": "artifacts:novelty_drinking_hat",
+        "count": 1
+    }
+}

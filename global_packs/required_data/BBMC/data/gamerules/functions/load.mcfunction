@@ -1,0 +1,3 @@
+gamerule artifacts.noveltyDrinkingHat.eatingDurationMultiplier 10
+gamerule artifacts.noveltyDrinkingHat.drinkingDurationMultiplier 0
+gamerule artifacts.snorkel.waterBreathingDuration 20

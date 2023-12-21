@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SWS",
+        "PHP",
+        "GBG"
+    ],
+    "key": {
+        "H": {
+            "item": "create:brass_hand"
+        },
+        "P": {
+            "item": "minecraft:blaze_powder"
+        },
+        "S": {
+            "tag": "forge:plates/copper"
+        },
+        "W": {
+            "tag": "forge:tools/wrench"
+        },
+        "G": {
+            "tag": "forge:ingots/gold"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        }
+    },
+    "result": {
+        "item": "artifacts:fire_gauntlet",
+        "count": 1
+    }
+}

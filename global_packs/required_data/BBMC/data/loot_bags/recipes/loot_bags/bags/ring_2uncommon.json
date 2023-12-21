@@ -1,0 +1,30 @@
+{
+    "type": "lootbags:loot",
+    "name": "Rings (Uncommon)",
+    "color": "#1ab316",
+    "rarity": "UNCOMMON",
+    "output": {
+      "entries": [
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_water_breathing"
+		},
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_mining"
+		},
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_growth"
+		},
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_water_walking"
+		},
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_luck"
+		}
+	  ]
+    }
+  }

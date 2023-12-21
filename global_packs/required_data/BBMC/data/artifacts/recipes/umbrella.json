@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LBL",
+        " O ",
+        " O "
+    ],
+    "key": {
+        "L": {
+            "item": "immersiveengineering:windmill_sail"
+        },
+        "O": {
+            "tag": "forge:ingots/netherite"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        }
+    },
+    "result": {
+        "item": "artifacts:umbrella",
+        "count": 1
+    }
+}

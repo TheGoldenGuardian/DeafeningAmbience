@@ -1,0 +1,30 @@
+{
+    "type": "lootbags:loot",
+    "name": "Rings (Epic)",
+    "color": "#a805a9",
+    "rarity": "EPIC",
+    "output": {
+      "entries": [
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_fire_resistance"
+		},
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_strength"
+		},
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_speed"
+		},
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_hungerless"
+		},
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_wither"
+		}
+	  ]
+    }
+  }

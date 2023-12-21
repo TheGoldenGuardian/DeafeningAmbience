@@ -1,0 +1,140 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  custom_menu_title = MULTIPLAYER
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=658970%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=580970%
+  orientation = bottom-centered
+  x = 41
+  action = movebutton
+  y = -30
+}
+
+customization {
+  identifier = %id=580970%
+  action = setbuttonlabel
+  value = &cReturn
+}
+
+customization {
+  identifier = %id=450946%
+  orientation = bottom-centered
+  x = -57
+  action = movebutton
+  y = -54
+}
+
+customization {
+  identifier = %id=450946%
+  width = 55
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=450946%
+  action = setbuttonlabel
+  value = Direct
+}
+
+customization {
+  identifier = %id=346946%
+  orientation = bottom-centered
+  x = -115
+  action = movebutton
+  y = -54
+}
+
+customization {
+  identifier = %id=346946%
+  width = 55
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=346946%
+  action = setbuttonlabel
+  value = Join
+}
+
+customization {
+  identifier = %id=658946%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=554946%
+  orientation = bottom-centered
+  x = 2
+  action = movebutton
+  y = -54
+}
+
+customization {
+  identifier = %id=554946%
+  width = 55
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=554946%
+  action = setbuttonlabel
+  value = Add
+}
+
+customization {
+  identifier = %id=424970%
+  orientation = bottom-centered
+  x = -115
+  action = movebutton
+  y = -30
+}
+
+customization {
+  identifier = %id=424970%
+  action = setbuttonlabel
+  value = Remove
+}
+
+customization {
+  identifier = %id=502970%
+  orientation = bottom-centered
+  x = -37
+  action = movebutton
+  y = -30
+}
+
+customization {
+  identifier = %id=346970%
+  orientation = bottom-centered
+  x = 60
+  action = movebutton
+  y = -54
+}
+
+customization {
+  identifier = %id=346970%
+  width = 55
+  action = resizebutton
+  height = 20
+}
+

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GIG",
+        "BSB",
+        "SNS"
+    ],
+    "key": {
+        "G": {
+            "tag": "forge:ingots/gold"
+        },
+        "S": {
+            "item": "minecraft:netherite_scrap"
+        },
+        "I": {
+            "tag": "forge:ingots/netherite"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "N": {
+            "tag": "forge:nether_stars"
+        }
+    },
+    "result": {
+        "item": "artifacts:cross_necklace",
+        "count": 1
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PMB",
+        "MEM",
+        "BMP"
+    ],
+    "key": {
+        "M": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "P": {
+            "tag": "forge:gems/prismarine"
+        },
+        "E": {
+            "tag": "forge:ingots/netherite"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        }
+    },
+    "result": {
+        "item": "artifacts:scarf_of_invisibility",
+        "count": 1
+    }
+}

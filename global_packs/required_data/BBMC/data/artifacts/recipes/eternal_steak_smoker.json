@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+	"item": "artifacts:everlasting_beef"
+  },
+  "result": "artifacts:eternal_steak",
+  "experience": 5,
+  "cookingtime": 72000
+}

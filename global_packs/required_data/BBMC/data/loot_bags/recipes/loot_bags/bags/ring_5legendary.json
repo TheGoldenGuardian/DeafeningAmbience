@@ -1,0 +1,26 @@
+{
+    "type": "lootbags:loot",
+    "name": "Rings (Legendary)",
+    "color": "#f8a500",
+    "rarity": "LEGENDARY",
+    "output": {
+      "entries": [
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_regeneration"
+		},
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_flight"
+		},
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_health"
+		},
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_undying"
+		}
+	  ]
+    }
+  }

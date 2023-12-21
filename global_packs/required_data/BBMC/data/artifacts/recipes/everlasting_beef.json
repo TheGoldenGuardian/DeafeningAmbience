@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SMS",
+        "BGB",
+        "SMS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:netherite_scrap"
+        },
+        "M": {
+            "item": "minecraft:beef"
+        },
+        "G": {
+            "item": "minecraft:enchanted_golden_apple"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        }
+    },
+    "result": {
+        "item": "artifacts:everlasting_beef",
+        "count": 1
+    }
+}

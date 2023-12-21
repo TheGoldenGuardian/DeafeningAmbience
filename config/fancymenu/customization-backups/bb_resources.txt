@@ -1,0 +1,22 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.packs.PackSelectionScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  custom_menu_title = RESOURCES
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=504952%
+  action = setbuttonlabel
+  value = &6Done
+}
+

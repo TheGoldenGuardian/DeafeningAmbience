@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "TGT",
+        "CSC",
+        "LBL"
+    ],
+    "key": {
+        "G": {
+            "item": "create:goggles"
+        },
+        "T": {
+            "item": "immersiveengineering:hemp_fabric"
+        },
+        "C": {
+            "item": "minecraft:golden_carrot"
+        },
+        "S": {
+            "tag": "forge:plates/steel"
+        },
+        "L": {
+            "tag": "forge:gems/emerald"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        }
+    },
+    "result": {
+        "item": "artifacts:night_vision_goggles",
+        "count": 1
+    }
+}

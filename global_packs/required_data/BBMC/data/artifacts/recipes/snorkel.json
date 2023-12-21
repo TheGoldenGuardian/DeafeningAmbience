@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " GF",
+        "RPF",
+        "BFF"
+    ],
+    "key": {
+        "G": {
+            "item": "create:goggles"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "P": {
+            "tag": "forge:glass_panes"
+        },
+        "F": {
+            "item": "create:fluid_pipe"
+        },
+        "R": {
+            "item": "minecraft:pufferfish"
+        }
+    },
+    "result": {
+        "item": "artifacts:snorkel",
+        "count": 1
+    }
+}

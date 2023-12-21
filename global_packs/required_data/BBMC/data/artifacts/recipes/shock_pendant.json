@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "SBS",
+        "LDL"
+    ],
+    "key": {
+        "L": {
+            "item": "minecraft:lightning_rod"
+        },
+        "D": {
+            "tag": "forge:gems/diamond"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "S": {
+            "tag": "forge:string"
+        }
+    },
+    "result": {
+        "item": "artifacts:shock_pendant",
+        "count": 1
+    }
+}

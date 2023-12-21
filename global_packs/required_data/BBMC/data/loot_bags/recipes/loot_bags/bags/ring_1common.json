@@ -1,0 +1,30 @@
+{
+    "type": "lootbags:loot",
+    "name": "Rings (Common)",
+    "color": "#ffffff",
+    "rarity": "COMMON",
+    "output": {
+      "entries": [
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_jump_boost"
+		},
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_magnetism"
+		},
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_poison_resistance"
+		},
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_slow_resistance"
+		},
+		{
+			"weight": 2,
+			"stack": "ringsofascension:ring_steadfast_steps"
+		}
+	  ]
+    }
+  }

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:charm_emerald"
+  ],
+  "incompatible": [
+    "enchantedcharms:gilded",
+    "enchantedcharms:anglers_boon",
+    "enchantedcharms:grappler",
+    "enchantedcharms:ordnance",
+    "enchantedcharms:bulwark",
+    "enchantedcharms:masterwork",
+    "enchantedcharms:golemancer",
+    "enchantedcharms:antidote",
+    "enchantedcharms:cluster_brew",
+    "enchantedcharms:prospecting",
+    "enchantedcharms:hunters_mark",
+    "enchantedcharms:potency",
+    "enchantedcharms:defusing",
+    "enchantedcharms:focus",
+    "enchantedcharms:survivalist"
+  ]
+}

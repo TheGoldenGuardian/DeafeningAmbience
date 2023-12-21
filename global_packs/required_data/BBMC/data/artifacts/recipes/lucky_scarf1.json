@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BHS",
+        "HUH",
+        "RHB"
+    ],
+    "key": {
+        "H": {
+            "item": "minecraft:rabbit_hide"
+        },
+        "U": {
+            "item": "alexscaves:uranium"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "R": {
+            "item": "minecraft:rabbit_foot"
+        },
+        "S": {
+            "tag": "forge:storage_blocks/lead"
+        }
+    },
+    "result": {
+        "item": "artifacts:lucky_scarf",
+        "count": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "NWN",
+        "SBS",
+        "EEE"
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:warped_hyphae"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "N": {
+            "tag": "forge:ingots/netherite"
+        },
+        "S": {
+            "tag": "forge:glass"
+        },
+        "E": {
+            "tag": "minecraft:beds"
+        }
+    },
+    "result": {
+        "item": "artifacts:cloud_in_a_bottle",
+        "count": 1
+    }
+}

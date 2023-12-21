@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLL",
+        "LEL",
+        "BTB"
+    ],
+    "key": {
+        "E": {
+            "tag": "forge:storage_blocks/emerald"
+        },
+        "L": {
+            "item": "immersiveengineering:ersatz_leather"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "T": {
+            "item": "minecraft:enchanting_table"
+        }
+    },
+    "result": {
+        "item": "artifacts:villager_hat",
+        "count": 1
+    }
+}

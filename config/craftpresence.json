@@ -173,7 +173,9 @@
     },
     "dynamicIcons": {
       "ClockmasterBlitz": "https://mc-heads.net/avatar/2398190955184099b909cf804fbe817e",
-      "default": "https://via.placeholder.com/256.png"
+      "default": "https://via.placeholder.com/256.png",
+      "PsycoFrensNetworkBBQ.exaroton.me": "https://api.mcsrvstat.us/icon/PsycoFrensNetworkBBQ.exaroton.me",
+      "69.72.117.105": "https://api.mcsrvstat.us/icon/69.72.117.105"
     },
     "dynamicVariables": {
       "default": "Example Text",

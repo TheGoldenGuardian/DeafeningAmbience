@@ -1,4 +1,7 @@
 {
   "CONFIG_VERSION": 1,
-  "action_wheel_button": "key.keyboard.g"
+  "action_wheel_button": "key.keyboard.g",
+  "has_paperdoll": true,
+  "paperdoll_always_on": true,
+  "paperdoll_invisible": true
 }
