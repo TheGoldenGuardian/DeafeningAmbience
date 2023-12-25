@@ -45,3 +45,6 @@ net.minecraft.client.gui.screens.MouseSettingsScreen {
 net.minecraft.client.gui.screens.TitleScreen {
 }
 
+mod.adrenix.nostalgic.client.screen.NostalgicTitleScreen {
+}
+
