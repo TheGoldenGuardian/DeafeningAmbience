@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BHB",
+        "CSC",
+        "BHB"
+    ],
+    "key": {
+        "S": {
+            "item": "lifesteal:heart_core"
+        },
+        "B": {
+            "tag": "forge:rods/blaze"
+        },
+        "H": {
+            "item": "minecraft:wither_skeleton_skull"
+        },
+        "C": {
+            "item": "minecraft:netherite_scrap"
+        }
+    },
+    "result": {
+        "item": "bbuoi:heart_nether",
+        "count": 1
+    }
+}

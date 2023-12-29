@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BGB",
+        "BRB",
+        "ENE"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "N": {
+            "tag": "forge:ingots/netherite"
+        },
+        "R": {
+            "tag": "forge:rods/gold"
+        },
+        "G": {
+            "item": "minecraft:golden_pickaxe"
+        },
+        "E": {
+            "item": "create:experience_block"
+        }
+    },
+    "result": {
+        "item": "artifacts:golden_hook",
+        "count": 1
+    }
+}

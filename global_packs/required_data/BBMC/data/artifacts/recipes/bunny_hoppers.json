@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "NBN",
+        "HBH",
+        "FNF"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "N": {
+            "tag": "forge:ingots/netherite"
+        },
+        "H": {
+            "item": "minecraft:rabbit_hide"
+        },
+        "F": {
+            "item": "minecraft:rabbit_foot"
+        }
+    },
+    "result": {
+        "item": "artifacts:bunny_hoppers",
+        "count": 1
+    }
+}

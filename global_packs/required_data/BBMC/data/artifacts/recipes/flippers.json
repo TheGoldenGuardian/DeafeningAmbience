@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PBP",
+        "PLP",
+        "SSS"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "P": {
+            "tag": "forge:dusts/prismarine"
+        },
+        "S": {
+            "item": "minecraft:sponge"
+        },
+        "L": {
+            "item": "minecraft:leather_boots"
+        }
+    },
+    "result": {
+        "item": "artifacts:flippers",
+        "count": 1
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "lifesteal:heart_core_block"
+    },
+    "c": {
+      "item": "lifesteal:heart_core"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "g": {
+      "item": "minecraft:golden_apple"
+    },
+    "h": {
+      "tag": "lifesteal:heart_cores"
+    },
+    "r": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "pattern": [
+    "bhb",
+    "dcd",
+    "rbg"
+  ],
+  "result": {
+    "item": "lifesteal:heart_crystal"
+  },
+  "show_notification": true
+}

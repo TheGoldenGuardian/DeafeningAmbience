@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SLS",
+        "FOF",
+        "SBS"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "O": {
+            "item": "betterarcheology:ocelot_fossil"
+        },
+        "F": {
+            "item": "minecraft:tropical_fish"
+        },
+        "L": {
+            "item": "minecraft:leather_boots"
+        },
+        "S": {
+            "tag": "forge:string"
+        }
+    },
+    "result": {
+        "item": "artifacts:kitty_slippers",
+        "count": 1
+    }
+}

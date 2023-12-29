@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "NBN",
+        "ELE",
+        "SSS"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "N": {
+            "item": "minecraft:netherite_scrap"
+        },
+        "E": {
+            "tag": "forge:storage_blocks/lead"
+        },
+        "S": {
+            "item": "minecraft:iron_sword"
+        },
+        "L": {
+            "item": "minecraft:leather_boots"
+        }
+    },
+    "result": {
+        "item": "artifacts:steadfast_spikes",
+        "count": 1
+    }
+}

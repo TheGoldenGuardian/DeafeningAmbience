@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LNL",
+        "CHC",
+        "BNB"
+    ],
+    "key": {
+        "H": {
+            "item": "create:brass_hand"
+        },
+        "L": {
+            "item": "immersiveengineering:ersatz_leather"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "N": {
+            "tag": "forge:ingots/netherite"
+        },
+        "C": {
+            "item": "lifesteal:heart_core"
+        }
+    },
+    "result": {
+        "item": "artifacts:vampiric_glove",
+        "count": 1
+    }
+}

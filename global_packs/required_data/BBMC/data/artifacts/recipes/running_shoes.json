@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BSB",
+        "RLR",
+        "WNW"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "N": {
+            "tag": "forge:ingots/netherite"
+        },
+        "W": {
+            "tag": "forge:dyes/white"
+        },
+        "R": {
+            "tag": "forge:dyes/red"
+        },
+        "S": {
+            "item": "supplementaries:sugar_cube"
+        },
+        "L": {
+            "item": "minecraft:leather_boots"
+        }
+    },
+    "result": {
+        "item": "artifacts:running_shoes",
+        "count": 1
+    }
+}

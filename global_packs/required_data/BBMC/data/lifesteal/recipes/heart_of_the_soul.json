@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DHD",
+        "DSD",
+        "DDD"
+    ],
+    "key": {
+        "S": {
+            "item": "lifesteal:heart_core"
+        },
+        "D": {
+            "tag": "minecraft:music_discs"
+        },
+        "H": {
+            "item": "minecraft:skeleton_skull"
+        }
+    },
+    "result": {
+        "item": "bbuoi:heart_soul",
+        "count": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BHB",
+        "PLP",
+        "WWW"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "H": {
+            "item": "minecraft:heart_of_the_sea"
+        },
+        "P": {
+            "tag": "forge:dusts/prismarine"
+        },
+        "W": {
+            "item": "create:water_wheel"
+        },
+        "L": {
+            "item": "minecraft:leather_boots"
+        }
+    },
+    "result": {
+        "item": "artifacts:aqua_dashers",
+        "count": 1
+    }
+}

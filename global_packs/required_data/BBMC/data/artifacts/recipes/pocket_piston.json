@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "BHB",
+        "NPN"
+    ],
+    "key": {
+        "H": {
+            "item": "create:brass_hand"
+        },
+        "W": {
+            "tag": "minecraft:planks"
+        },
+        "N": {
+            "tag": "forge:dusts/redstone"
+        },
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "P": {
+            "item": "create:piston_extension_pole"
+        }
+    },
+    "result": {
+        "item": "artifacts:pocket_piston",
+        "count": 1
+    }
+}
