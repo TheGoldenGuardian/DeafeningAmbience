@@ -1,0 +1,13 @@
+filename = 'EnchantingInfuser-v8.0.2-1.20.1-Forge.jar'
+name = 'Enchanting Infuser'
+side = 'both'
+
+[download]
+hash = '50bd64f5038f9b0760888c68fc7d144732b620ea93487c0ea10beb94a07a163188bec7d6a154b7b0992b2902112004a7eb2171100bbf41c507e5e58688eeaec1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ePv85y52/versions/1NgJmHTq/EnchantingInfuser-v8.0.2-1.20.1-Forge.jar'
+
+[update.modrinth]
+mod-id = 'ePv85y52'
+version = '1NgJmHTq'

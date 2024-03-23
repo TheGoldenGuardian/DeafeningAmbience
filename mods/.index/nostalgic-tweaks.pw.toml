@@ -1,0 +1,13 @@
+filename = 'NostalgicTweaks-1.20.1-Forge-2.0.0-Beta-8.4.1 (1).jar'
+name = 'Nostalgic Tweaks'
+side = 'both'
+
+[download]
+hash = '76d2cd6bae05c8bfd1ed5fec9710a7433b9da3344ffd37ebdcb66436f8a8f4e0c38f97863c305826da0e48812a109e10b86583962e05a5f57608ac90c86375c8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/l1rj36Ob/versions/McdLGKv5/NostalgicTweaks-1.20.1-Forge-2.0.0-Beta-8.4.1.jar'
+
+[update.modrinth]
+mod-id = 'l1rj36Ob'
+version = 'McdLGKv5'

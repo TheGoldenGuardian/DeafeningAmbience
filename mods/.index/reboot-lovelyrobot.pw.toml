@@ -1,0 +1,13 @@
+filename = 'rlovelyr-forge-1.20.1-1.1.0.jar'
+name = 'Reboot LovelyRobot'
+side = 'both'
+
+[download]
+hash = '1d24a26675078f4b764cb9163faf46677917fcfcc9eb9642821a8e84ea4c5ae39c5026e9d3d5cfdf86764d69c009ca5fa209c3be01aefc4c1e2bb4abc8049c5a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aFZGvBS6/versions/seT1H1YZ/rlovelyr-forge-1.20.1-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'aFZGvBS6'
+version = 'seT1H1YZ'

@@ -1,0 +1,13 @@
+filename = 'Soulbound-Forge-0.6+1.20.1.jar'
+name = 'Soulbound Enchantment'
+side = 'both'
+
+[download]
+hash = '71a6df975ec4d11858a3169786e91b3f7775d5c33a6b36cf7897f5a92323405e9b0c7709e210391ad46bb5bc1679fbb60704b0053ff8edf6d3f38046272cc907'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MmUmcwom/versions/EUDORUfn/Soulbound-Forge-0.6%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'MmUmcwom'
+version = 'EUDORUfn'

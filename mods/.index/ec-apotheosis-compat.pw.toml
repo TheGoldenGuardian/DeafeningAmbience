@@ -1,0 +1,13 @@
+filename = 'ec_apotheosis_plugin-1.20.1-1.1.1-all.jar'
+name = 'EC Apotheosis Compat'
+side = 'both'
+
+[download]
+hash = 'b45964be18f7265c2a43c3fe83a00f594d2e524c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5073720
+project-id = 941326

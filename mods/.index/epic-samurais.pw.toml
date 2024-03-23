@@ -1,0 +1,13 @@
+filename = 'epicsamurai-0.0.40-1.20.1-neo.jar'
+name = 'Epic Samurai'
+side = 'both'
+
+[download]
+hash = '12948a821a99f66f891540f4af2c7571faa3eee8ff97b3d115139ce1c2d7cded9e6462dc664d042abb6e7badde6488f2fe64132679b6bffaeeabeff43d9e3d6c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lMWJDrbO/versions/ZIeCHIms/epicsamurai-0.0.40-1.20.1-neo.jar'
+
+[update.modrinth]
+mod-id = 'lMWJDrbO'
+version = 'ZIeCHIms'

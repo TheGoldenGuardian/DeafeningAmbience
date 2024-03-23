@@ -1,0 +1,13 @@
+filename = 'jackocache-0.4.0-1.20.1.jar'
+name = "Jack o'Cache"
+side = 'both'
+
+[download]
+hash = '2cdcdacface1712e93f0e6c362b2d16de1b86a76d435d0dc14b5807883e18b176e4d4a802542a6fab1577c6014956956344137d67d997c4b142dd2d6a1f26fdd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DUlip2UF/versions/GGYVAnKo/jackocache-0.4.0-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'DUlip2UF'
+version = 'GGYVAnKo'

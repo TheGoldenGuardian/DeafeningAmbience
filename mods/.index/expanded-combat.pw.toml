@@ -1,0 +1,13 @@
+filename = 'expanded_combat-1.20.1-3.1.0-all.jar'
+name = 'Expanded Combat'
+side = 'both'
+
+[download]
+hash = '712b4845400fcccbb81b0bfb1c7396910eb78b63e7ff76498a29b2474bd3325b2a64ebdc4a05326cc6cb5dd88e8315b7e077813e8d672306edfcf48f3b2fa8a3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sElBpAJt/versions/mfoJbG3D/expanded_combat-1.20.1-3.1.0-all.jar'
+
+[update.modrinth]
+mod-id = 'sElBpAJt'
+version = 'mfoJbG3D'

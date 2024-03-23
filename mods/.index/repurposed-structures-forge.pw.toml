@@ -1,0 +1,13 @@
+filename = 'repurposed_structures-7.1.13+1.20.1-forge.jar'
+name = 'Repurposed Structures'
+side = 'both'
+
+[download]
+hash = '5caff5a97fe29612062fe8752a00fa21cb5d0122e3e3a8beca0151dfb08b9285f7dc58bc0ba5074f86594a5b2c0284492932e47dabc57a07741192b21d835715'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QDNS5oAT/versions/gYwLp8OL/repurposed_structures-7.1.13%2B1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'QDNS5oAT'
+version = 'gYwLp8OL'

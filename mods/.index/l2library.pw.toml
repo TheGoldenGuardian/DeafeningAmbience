@@ -1,0 +1,13 @@
+filename = 'l2library-2.4.20.jar'
+name = 'L2 Library'
+side = 'both'
+
+[download]
+hash = 'a2c263f36a84f841fb502d4d3cf49c0b354d60f3dcc337f6dd1e93f31166872e743fefd1fb76b001d320d585f8a41162fcd915ac9fbbf82bd7257eb93832b4b5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4Vh3BQ3F/versions/UJA3LfJQ/l2library-2.4.20.jar'
+
+[update.modrinth]
+mod-id = '4Vh3BQ3F'
+version = 'UJA3LfJQ'

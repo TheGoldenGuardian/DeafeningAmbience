@@ -1,0 +1,13 @@
+filename = 'Enderite-CJ-forge-mc1.20.1-1.4.5.jar'
+name = 'Enderite CJ Edition'
+side = 'both'
+
+[download]
+hash = '489dd4432a98a18da8ef49d153c4257a4978044441bb1f2df49079a2aaf3ddf4de3a51db96dd7ce9068a31d05cac19b035e5a4bdb52d82c7eebc0591ac2335cc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cKl6bfdo/versions/UIjxurkX/Enderite-CJ-forge-mc1.20.1-1.4.5.jar'
+
+[update.modrinth]
+mod-id = 'cKl6bfdo'
+version = 'UIjxurkX'

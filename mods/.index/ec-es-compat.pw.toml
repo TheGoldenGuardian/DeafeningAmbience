@@ -1,0 +1,13 @@
+filename = 'ec_es_plugin-1.20.1-1.1.1-all.jar'
+name = 'EC Epic Samurais Plugin'
+side = 'both'
+
+[download]
+hash = '9bcdedd0502af1212cc95d5694b5c8bfc57a69a668acd0aaf73a512bcafcba32ffd69789e03e1618379351e90cd3415371f0180bdfc5655119f6e9430a7e0d65'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RNAo6Pei/versions/x8NQUp9r/ec_es_plugin-1.20.1-1.1.1-all.jar'
+
+[update.modrinth]
+mod-id = 'RNAo6Pei'
+version = 'x8NQUp9r'

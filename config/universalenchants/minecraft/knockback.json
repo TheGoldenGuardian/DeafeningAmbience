@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "supplementaries:wrench",
+    "expanded_combat:leather_gauntlet",
+    "expanded_combat:rabbit_leather_gauntlet",
+    "expanded_combat:iron_gauntlet",
+    "expanded_combat:gold_gauntlet",
+    "expanded_combat:diamond_gauntlet",
+    "expanded_combat:netherite_gauntlet",
+    "expanded_combat:soul_gauntlet",
+    "expanded_combat:fighters_gauntlet",
+    "expanded_combat:maulers_gauntlet",
+    "expanded_combat:gauntlet_gauntlet",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident",
+    "$minecraft:universal_enchants_shield"
+  ],
+  "incompatible": [
+    "expanded_combat:knockback_resistance"
+  ]
+}

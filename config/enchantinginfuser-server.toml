@@ -1,9 +1,10 @@
 
 [advanced_infuser]
 	#Can the enchanting infuser repair items using levels in addition to enchanting.
-	allow_repairing = true
+	#Allowed Values: EVERYTHING, TOOLS_AND_ARMOR, NOTHING
+	allow_repairing = "TOOLS_AND_ARMOR"
 	#Allow enchantments on an already enchanted item to be increased / removed.
-	#Allowed Values: ALL, FULL_DURABILITY, UNENCHANTED
+	#Allowed Values: UNENCHANTED, ALL, FULL_DURABILITY
 	allow_modifying_enchantments = "ALL"
 	#How many bookshelves you need around the infuser to be able to apply maximum level enchantments.
 	#Filling in corners is important to reach higher values.
@@ -11,6 +12,8 @@
 	#This value will be fixed at 50 when Apotheosis is installed.
 	#Range: > 0
 	maximum_bookshelves = 15
+	#Working an item in an infuser increases the prior work penalty stat used by anvils for that item, meaning future anvil repairs will become more expensive, possibly even too expensive.
+	increase_anvil_repair_cost = false
 	#Allow books to be enchanted in an infuser.
 	allow_books = true
 
@@ -50,7 +53,7 @@
 		rare_cost_multiplier = 4
 		#Cost level to scale prices by. This is not a strict value, meaning it can be exceeded (e.g. when applying treasure enchantments).
 		#Range: > 1
-		maximum_cost = 30
+		maximum_cost = 20
 		#When scaling costs, only account for vanilla enchantments. Otherwise enchanting costs will become ludicrously cheap with many modded enchantments present.
 		scale_costs_by_vanilla_only = true
 		#Base cost multiplier for each level for uncommon enchantments.
@@ -97,9 +100,10 @@
 
 [normal_infuser]
 	#Can the enchanting infuser repair items using levels in addition to enchanting.
-	allow_repairing = false
+	#Allowed Values: EVERYTHING, TOOLS_AND_ARMOR, NOTHING
+	allow_repairing = "NOTHING"
 	#Allow enchantments on an already enchanted item to be increased / removed.
-	#Allowed Values: ALL, FULL_DURABILITY, UNENCHANTED
+	#Allowed Values: UNENCHANTED, ALL, FULL_DURABILITY
 	allow_modifying_enchantments = "UNENCHANTED"
 	#How many bookshelves you need around the infuser to be able to apply maximum level enchantments.
 	#Filling in corners is important to reach higher values.
@@ -107,6 +111,8 @@
 	#This value will be fixed at 50 when Apotheosis is installed.
 	#Range: > 0
 	maximum_bookshelves = 15
+	#Working an item in an infuser increases the prior work penalty stat used by anvils for that item, meaning future anvil repairs will become more expensive, possibly even too expensive.
+	increase_anvil_repair_cost = false
 	#Allow books to be enchanted in an infuser.
 	allow_books = false
 
@@ -190,4 +196,9 @@
 		#Multiplier for maximum enchanting power for when uncommon enchantments become available.
 		#Range: -1.0 ~ 1.0
 		uncommon_multiplier = 0.2
+
+[integration]
+	#Enable compat for Apotheosis if it is installed. Allows for using the full range of changes Apotheosis applies to vanilla enchantments.
+	#Should only really be disabled if compat breaks due to internal changes.
+	apotheosis = true
 

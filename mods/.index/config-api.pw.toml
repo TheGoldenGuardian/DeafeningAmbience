@@ -1,0 +1,13 @@
+filename = 'ConfigAPI-CJ-forge-mc-1.20-2.2.1.jar'
+name = 'Config API'
+side = 'both'
+
+[download]
+hash = '0bec282be1ec5540fce28ed4149e6f7ee250198e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5190021
+project-id = 968816

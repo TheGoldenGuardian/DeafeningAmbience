@@ -1,0 +1,13 @@
+filename = 'Zeta-1.0-14.jar'
+name = 'Zeta'
+side = 'both'
+
+[download]
+hash = '29c98fff734d91e62cd9aa883aba66e6b1e778ad748125f9f85c1449f7aa313d9a27fbf7166417b4d2f942b5cf69121c6c161c9edbf599f3ead1ac4e1523cc27'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MVARlG2f/versions/v807AcrM/Zeta-1.0-14.jar'
+
+[update.modrinth]
+mod-id = 'MVARlG2f'
+version = 'v807AcrM'

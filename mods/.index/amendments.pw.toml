@@ -1,0 +1,13 @@
+filename = 'amendments-1.20-1.1.11.jar'
+name = 'Amendments'
+side = 'both'
+
+[download]
+hash = '3a1d26dd35d6728e6e6c3910e9e015432e5ffea26c500b58a13b73eb88d22eef34c24f0cab2323f8c15beca45bcbb2a1d7805d83276011929716f4787136ac9e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6iTJugQR/versions/gnp2tG07/amendments-1.20-1.1.11.jar'
+
+[update.modrinth]
+mod-id = '6iTJugQR'
+version = 'gnp2tG07'

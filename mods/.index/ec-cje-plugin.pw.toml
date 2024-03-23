@@ -1,0 +1,13 @@
+filename = 'ec_cje_plugin-1.20.1-1.1.1-all.jar'
+name = "EC Plugin for CJ's Enderite"
+side = 'both'
+
+[download]
+hash = 'cd7716b25aad2e35cb7372b808350d3a4b514060bd81f704d23408c751f4073513e5688e7c25a4d598f17ccac42de8ec320d106ff08596b094292c7fb1479283'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6rKNpXRz/versions/o5yOAoIP/ec_cje_plugin-1.20.1-1.1.1-all.jar'
+
+[update.modrinth]
+mod-id = '6rKNpXRz'
+version = 'o5yOAoIP'

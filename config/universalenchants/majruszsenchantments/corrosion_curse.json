@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor",
+    "apotheosis:boots_tome",
+    "apotheosis:chestplate_tome",
+    "apotheosis:helmet_tome",
+    "apotheosis:leggings_tome",
+    "apotheosis:other_tome",
+    "modulargolems:roman_guard_helmet",
+    "modulargolems:roman_guard_chestplate",
+    "modulargolems:roman_guard_shinguard",
+    "modulargolems:wind_spirit_helmet",
+    "modulargolems:wind_spirit_chestplate",
+    "modulargolems:wind_spirit_shinguard",
+    "modulargolems:barbaric_vanguard_helmet",
+    "modulargolems:barbaric_vanguard_chestplate",
+    "modulargolems:barbaric_vanguard_shinguard"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse"
+  ]
+}

@@ -1,0 +1,71 @@
+
+["Pumpkin Heads"]
+	#Allow Halloween mobs to spawn with pumpkins outside of Halloween
+	#Default: false
+	alwaysHalloween = false
+	#The chance of a pumpkin on a Halloween mob's head to be replaced with one of Jack o'Cache's
+	#Default: 0.9876543209876543
+	#Range: 0.0 ~ 1.0
+	replaceChance = 0.9876543209876543
+
+["Jack o'Slicer"]
+	#The chance of a mob to spawn with a Jack o'Slicer in Hard difficulty
+	#Default: 0.05
+	#Range: 0.0 ~ 1.0
+	jackOSlicerMobChanceHard = 0.05
+	#The chance of a mob to spawn with a Jack o'Slicer in Easy and Normal difficulty
+	#Default: 0.01
+	#Range: 0.0 ~ 1.0
+	jackOSlicerMobChance = 0.01
+	#The chance of a mob with a Jack o'Slicer to drop it
+	#Default: 0.1
+	#Range: 0.0 ~ 1.0
+	jackOSlicerDropChance = 0.1
+	#The item used to repair the Jack o'Slicer
+	#Default: minecraft:pumpkin
+	jackOSlicerRepairItem = "minecraft:pumpkin"
+
+[Transformations]
+	#Enable the transformation for the uwu Pumpkin
+	#Default: true
+	uwuTransformation = true
+	#Enable the transformation for the nice Pumpkin
+	#Default: true
+	niceTransformation = true
+	#Enable the transformation for the :^) Pumpkin
+	#Default: true
+	emoteTransformation = true
+	#Enable the transformation for the Pumpking
+	#Default: true
+	pumpkingTransformation = true
+	#Enable the transformation for the Ghost Pumpkin
+	#Default: true
+	ghostTransformation = true
+	#Enable the transformation for the Snow Pumpkin
+	#Default: true
+	snowTransformation = true
+	#Enable the transformation for the Melon Pumpkin
+	#Default: true
+	melonTransformation = true
+	#Enable the transformation for the Alpha Pumpkin
+	#Default: true
+	alphaTransformation = true
+	#Enable the transformation for the SpookyJam Pumpkin
+	#Default: true
+	spookyJamTransformation = true
+	#Enable the transformation for the Cool Pumpkin
+	#Default: true
+	coolTransformation = true
+	#Enable the transformation for the Angry Pumpkin
+	#Default: true
+	angryTransformation = true
+	#Enable the transformation for the Puking Pumpkin
+	#Default: true
+	pukingTransformation = true
+	#Enable the transformation for the Nerd Pumpkin
+	#Default: true
+	nerdTransformation = true
+	#Enable the transformation for the Nerd Creeper Pumpkin
+	#Default: true
+	nerdCreeperTransformation = true
+
